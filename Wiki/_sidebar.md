@@ -1,0 +1,9 @@
+- [Startseite](/)
+- Erste Schritte
+    - [Installation](/sites/installation.md)
+    - [Konfiguration](/sites/konfiguration.md)
+- Technik
+    - [Architektur](/sites/architektur.md)
+    - [API-Referenz](/sites/api.md)
+- Hilfe
+    - [FAQ](/sites/faq.md)
